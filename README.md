@@ -13,8 +13,14 @@ As you kill mobs and gather experience, the player character will level up and t
 
 It's another Roguelike :^).
 
-## Technologies
+## Technologies and Engines
 
--   Unity 2020.3.0f1
+*   Unity 2020.3.0f1
+  *  TopDown Engine
+
+* Blender
+* Substance Painter
+* Photoshop
+* Clip Studio Paint
 
 ## Concept and Game Declaration
