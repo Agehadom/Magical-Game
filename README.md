@@ -23,4 +23,6 @@ It's another Roguelike :^).
 * Photoshop
 * Clip Studio Paint
 
-## Concept and Game Declaration
+## Concept Art
+
+![Example of the view and concept of the PC being augmented](https://i.imgur.com/eTQqoNT.png)
